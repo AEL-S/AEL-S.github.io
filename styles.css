@@ -121,7 +121,7 @@ footer p {
     border-style: dotted;
     border-color: rgb(240, 200, 152);
     position: fixed; 
-    bottom: 90px;  
+    bottom: 80px;  
     left: 15px; 
     z-index: 99;   
 }  
