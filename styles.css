@@ -228,7 +228,8 @@ footer p {
 }
 
 
- @media (min-width:1040px) {
+/*  @media (min-width:1040px) { */
+     @media (max-width:1100px) {
      .container {
         grid-template-areas:
             "sidebar content"
