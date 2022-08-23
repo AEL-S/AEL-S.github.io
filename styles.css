@@ -29,7 +29,6 @@ body {
 
 nav ul{
     margin: 0;
-/*   may need to remove fontsize below   */
     font-size: 2em;
     display: flex;
     justify-content: space-between;
