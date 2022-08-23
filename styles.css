@@ -173,6 +173,10 @@ footer p {
         color: white;
         text-decoration: none;
     }
+
+       .typewrite:hover{
+            color: white;
+    }
     
     @media (min-width:1040px) {
          .container {
