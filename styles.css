@@ -29,6 +29,7 @@ body {
 
 nav ul{
     margin: 0;
+    font-size: 2em;
     display: flex;
     justify-content: space-between;
     text-align: center;
