@@ -4,7 +4,7 @@
 
 I am currently enrolled in the MIT xPro Full Stack Development with MERN certificate course and will be updating my GitHub with the work I complete throughout the program to showcase my progress as I learn.
 
-Right now my portfolio contains three projects: https://ael-s.github.io/PacMen/, https://ael-s.github.io/EyeExercise/, and https://github.com/AEL-S/RealTimeBusTracker - this one does not have a GitHub Pages page since it requires a personal API key . This link will take you to the repo where you can fork and clone the files, and add your own API key to make it run. 
+Right now my portfolio contains three projects: https://ael-s.github.io/PacMen/, https://ael-s.github.io/EyeExercise/, and https://github.com/AEL-S/RealTimeBusTracker - this one does not have a GitHub Pages page since it requires a personal API key. This link will take you to the repo where you can fork and clone the files, and add your own API key to make it run. 
 
 <h2>To Run:</h2>
 Everything required to run this portfolio is in this repository, or you can just navigate to: https://ael-s.github.io.
