@@ -12,6 +12,9 @@ Everything required to run this portfolio is in this repository, or you can just
 <h2>Roadmap of future improvements:</h2>
 I will be returning to update my portfolio with various projects I complete throughout the MIT xPro course until it ends in March of 2023. I will also be taking advantage of the resources I have been given to further my learning and continue growing as a developer. 
 
+<h2>Support:</h2>
+Feel free to email me at Aesteg89@gmail.com or message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions. 
+
 <h2>License</h2>
 MIT License
 Copyright (c) 2022 Anna Stegmann
